@@ -166,7 +166,8 @@ footer {
 }
 
 p.copyright {
-    text-align: right;
+    margin-top: 18px;
+    color: #999999;
 }
 
 #about-img {
